@@ -44,8 +44,3 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IamNotReal12&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" />
-</p>
