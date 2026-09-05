@@ -28,5 +28,5 @@
 1. **Clona este repositorio o descarga el archivo:**
    ```bash
    git clone [https://github.com/IamNotReal12/triqui-python.git](https://github.com/IamNotReal12/triqui-python.git)
-2.python triqui.py   
+2.python juego_gato.py   
 
