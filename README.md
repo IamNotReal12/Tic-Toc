@@ -24,8 +24,9 @@
 
 ## 🛠️ Requisitos e Instalación
 
-1. **Asegúrate de tener Python instalado** en tu computadora.
-2. **Clona este repositorio o descarga el archivo:**
+
+1. **Clona este repositorio o descarga el archivo:**
    ```bash
    git clone [https://github.com/IamNotReal12/triqui-python.git](https://github.com/IamNotReal12/triqui-python.git)
+2.python triqui.py   
 
