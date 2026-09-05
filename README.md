@@ -1,46 +1,31 @@
 # Tic-Toc
-<h1 align="center">¡Hola, soy Carlos Cardona! 👋</h1>
+<h1 align="center">🎮 Triqui (Tic-Tac-Toe) en Python</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IamNotReal12&color=blueviolet&style=flat-square" alt="Visitas al perfil" />
+  Clásico juego de Triqui desarrollado en Python utilizando matrices y validación de turnos por consola.
 </p>
-
-<p align="center">
-  🌱 Estudiante de Ingeniería de Software apasionado por el desarrollo de software de escritorio, lógica de programación y la creación de soluciones funcionales.
-</p>
-
----
-
-## 🛠️ Tecnologías y Lenguajes
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/CustomTkinter-00599C?style=for-the-badge&logo=python&logoColor=white" alt="CustomTkinter"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Console-Game-blue?style=for-the-badge" alt="Console Game"/>
+  <img src="https://img.shields.io/badge/Logic-Matrix-success?style=for-the-badge" alt="Matrix Logic"/>
 </p>
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Características del Juego
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <h3>📱 Mobile Expense Tracker</h3>
-      <p>Simulador de interfaz móvil en CustomTkinter con persistencia JSON y logs.</p>
-      <p><b>Python • CustomTkinter • JSON</b></p>
-      <a href="https://github.com/IamNotReal12/customtkinter-mobile-expense-tracker">Ver Repositorio</a>
-    </td>
-    <td width="50%" align="center">
-      <h3>⚔️ Java Dungeon Crawler</h3>
-      <p>Juego de rol de texto en consola con combates por turnos y eventos aleatorios.</p>
-      <p><b>Java • OOP • Consola</b></p>
-      <a href="https://github.com/IamNotReal12/java-dungeon-crawler">Ver Repositorio</a>
-    </td>
-  </tr>
-</table>
+- 🎲 **Selección Aleatoria de Turnos:** Utiliza la librería `random` para decidir de forma justa qué jugador ("X" o "O") comienza la partida.
+- 📐 **Estructura de Matriz 3x3:** Renderizado dinámico del tablero en consola utilizando comprensión de listas en Python.
+- 🛡️ **Validación de Intervalos y Coordenadas:** Control estricto de entradas para evitar errores si el usuario ingresa valores fuera del rango (1 a 3) o casillas ya ocupadas.
+- 🏆 **Detección de Ganador y Empate:** Algoritmo que evalúa filas, columnas y diagonales en tiempo real tras cada jugada.
 
 ---
+
+## 🛠️ Requisitos e Instalación
+
+1. **Asegúrate de tener Python instalado** en tu computadora.
+2. **Clona este repositorio o descarga el archivo:**
+   ```bash
+   git clone [https://github.com/IamNotReal12/triqui-python.git](https://github.com/IamNotReal12/triqui-python.git)
 
